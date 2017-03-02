@@ -106,7 +106,7 @@ The two principal actors in FSP are “user” and “system”.
 a. For full working FSP requires Internet connection. 
 b. FSP is single-user application
 2.6 Assumptions and Dependencies
-a. Full working of FSP is dependent on the availability of Internet connection. 
+a. Full working of fsp is dependent on the availability of Internet connection. 
 b. The foods items are displayed based on limitations of restaurants and hotels
 
 
